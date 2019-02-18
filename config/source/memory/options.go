@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"github.com/ooobot/go-os/config"
+	"github.com/micro/go-os/config"
 
 	"golang.org/x/net/context"
 )

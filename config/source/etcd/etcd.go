@@ -6,7 +6,7 @@ import (
 	"log"
 
 	"github.com/coreos/etcd/client"
-	"github.com/ooobot/go-os/config"
+	"github.com/micro/go-os/config"
 
 	"golang.org/x/net/context"
 )
