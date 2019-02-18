@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-os/config"
+	"github.com/ooobot/go-os/config"
 	"github.com/pborman/uuid"
 )
 

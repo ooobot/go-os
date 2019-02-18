@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/micro/go-os/config"
+	"github.com/ooobot/go-os/config"
 )
 
 // Currently a single file reader

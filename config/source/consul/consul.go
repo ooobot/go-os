@@ -6,7 +6,7 @@ import (
 	"net"
 
 	"github.com/hashicorp/consul/api"
-	"github.com/micro/go-os/config"
+	"github.com/ooobot/go-os/config"
 )
 
 // Currently a single consul reader
